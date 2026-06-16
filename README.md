@@ -107,25 +107,6 @@ I approach engineering problems with system design thinking, modular architectur
 ## ◈ Featured Projects
 
 <details>
-<summary><strong>🔷 TradeNova — Enterprise Trading Platform</strong></summary>
-<br/>
-
-A production-grade, full-stack enterprise trading platform delivering real-time market insights, portfolio analytics, and modular financial tooling — architected for scale and performance from the ground up.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Next.js · React.js · Node.js · Express.js · MongoDB · REST APIs |
-| **Scale** | 15+ RESTful API endpoints; enterprise-grade modular architecture |
-| **Performance** | 40% reduction in average API response time via optimised MongoDB schemas |
-| **Security** | Input validation, error handling, structured modular codebase |
-| **Impact** | Full-stack trading intelligence platform with portfolio analytics |
-| **Repository** | [github.com/niteshmishra0201](https://github.com/niteshmishra0201) |
-
-Designed and engineered a modular backend system with Node.js and Express.js supporting 15+ scalable API endpoints. Architected MongoDB schemas optimised for read-heavy analytics queries, resulting in a measurable 40% improvement in API response times. The frontend was built with Next.js and React.js, delivering a clean, responsive user interface aligned with enterprise design standards.
-
-</details>
-
-<details>
 <summary><strong>🔷 AI-Powered CI/CD Pipeline Monitor</strong></summary>
 <br/>
 
@@ -145,6 +126,23 @@ Built an AI-augmented DevOps tool that processes CI/CD pipeline events, applies 
 </details>
 
 <details>
+<summary><strong>🔷 TradeNova — Enterprise Trading Platform</strong></summary>
+<br/>
+
+A production-grade, full-stack enterprise trading platform delivering real-time market insights, portfolio analytics, and modular financial tooling — architected for scale and performance from the ground up.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Next.js · React.js · Node.js · Express.js · MongoDB · REST APIs |
+| **Scale** | 15+ RESTful API endpoints; enterprise-grade modular architecture |
+| **Performance** | 40% reduction in average API response time via optimised MongoDB schemas |
+| **Security** | Input validation, error handling, structured modular codebase |
+| **Impact** | Full-stack trading intelligence platform with portfolio analytics |
+| **Repository** | [github.com/niteshmishra0201](https://github.com/niteshmishra0201) |
+
+Designed and engineered a modular backend system with Node.js and Express.js supporting 15+ scalable API endpoints. Architected MongoDB schemas optimised for read-heavy analytics queries, resulting in a measurable 40% improvement in API response times. The frontend was built with Next.js and React.js, delivering a clean, responsive user interface aligned with enterprise design standards.
+
+</details>
 
 <details>
 <summary><strong>🔷 InterviewAI — AI-Powered Mock Interview Platform</strong></summary>
@@ -184,7 +182,7 @@ Designed and deployed a financial transaction management backend following produ
 
 </details>
 
-
+<details>
 <summary><strong>🔷 TDG — Freelance Client Business Website</strong></summary>
 <br/>
 
