@@ -126,6 +126,27 @@ Designed and engineered a modular backend system with Node.js and Express.js sup
 </details>
 
 <details>
+<summary><strong>🔷 AI-Powered CI/CD Pipeline Monitor</strong></summary>
+<br/>
+
+An intelligent CI/CD pipeline monitoring system that applies AI-driven anomaly detection and alerting to DevOps workflows — providing engineering teams with real-time visibility, failure prediction, and automated incident triage.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · Node.js · OpenAI API · GitHub Actions · REST APIs |
+| **Scale** | Monitors multi-stage pipeline events with real-time AI analysis |
+| **Performance** | Reduced mean-time-to-detect pipeline failures through intelligent alerting |
+| **Security** | Secure webhook handling, event validation, structured logging |
+| **Impact** | Proactive pipeline health management for engineering teams |
+| **Repository** | [github.com/niteshmishra0201](https://github.com/niteshmishra0201) |
+
+Built an AI-augmented DevOps tool that processes CI/CD pipeline events, applies LLM-based analysis to identify failure patterns and anomalies, and surfaces actionable insights to engineering teams. Designed with extensibility for integration across GitHub Actions, Jenkins, and other pipeline orchestrators.
+
+</details>
+
+<details>
+
+<details>
 <summary><strong>🔷 InterviewAI — AI-Powered Mock Interview Platform</strong></summary>
 <br/>
 
@@ -163,26 +184,7 @@ Designed and deployed a financial transaction management backend following produ
 
 </details>
 
-<details>
-<summary><strong>🔷 AI-Powered CI/CD Pipeline Monitor</strong></summary>
-<br/>
 
-An intelligent CI/CD pipeline monitoring system that applies AI-driven anomaly detection and alerting to DevOps workflows — providing engineering teams with real-time visibility, failure prediction, and automated incident triage.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python · Node.js · OpenAI API · GitHub Actions · REST APIs |
-| **Scale** | Monitors multi-stage pipeline events with real-time AI analysis |
-| **Performance** | Reduced mean-time-to-detect pipeline failures through intelligent alerting |
-| **Security** | Secure webhook handling, event validation, structured logging |
-| **Impact** | Proactive pipeline health management for engineering teams |
-| **Repository** | [github.com/niteshmishra0201](https://github.com/niteshmishra0201) |
-
-Built an AI-augmented DevOps tool that processes CI/CD pipeline events, applies LLM-based analysis to identify failure patterns and anomalies, and surfaces actionable insights to engineering teams. Designed with extensibility for integration across GitHub Actions, Jenkins, and other pipeline orchestrators.
-
-</details>
-
-<details>
 <summary><strong>🔷 TDG — Freelance Client Business Website</strong></summary>
 <br/>
 
