@@ -17,7 +17,7 @@ Currently open to backend, full-stack, and software engineering roles — includ
 
 **Languages:** JavaScript, TypeScript, Python, C++, HTML/CSS
 **Frontend:** React, Next.js
-**Backend:** Node.js, Express, FastAPI, Hono
+**Backend:** SpringBoot , Node.js, Express, 
 **Databases:** MongoDB, PostgreSQL
 **Cloud & Tooling:** AWS, Docker, Vercel, Git, Postman
 
